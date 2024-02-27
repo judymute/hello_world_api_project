@@ -1,0 +1,21 @@
+body {
+  background-size: cover; /* Cover the entire page */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-position: center center; /* Center the background image */
+  background-attachment: fixed; 
+}
+
+
+.generative-message {
+  max-width: 600px; /* Set a max-width for the message */
+  padding: 20px; /* Add some padding */
+  margin-left: 400px;
+  margin-right: 250px;
+  margin-top: 300px;
+  margin-bottom: 250px;
+  background-color: rgba(212, 212, 215, 0.5); /* Optional: Add a semi-transparent background */
+  border-radius: 10px; /* Optional: Round the corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: Add a subtle shadow */
+  font-family: fantasy;
+  font-size: 18px;
+}
